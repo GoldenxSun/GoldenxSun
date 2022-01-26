@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GoldenxSun
-- 👀 I’m interested in programing
+- 👀 I’m interested in programing and electronics
 - 🌱 I’m currently learning c++ / c#
 
 <!---
