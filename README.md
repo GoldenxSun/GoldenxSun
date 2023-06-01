@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoldenxSun
 - 👀 I’m interested in programing and electronics
-- 🌱 I’m currently learning c++ / c#
+- 🌱 I’m currently learning python / c#
 
 <!---
 GoldenxSun/GoldenxSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
