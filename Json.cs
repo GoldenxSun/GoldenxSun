@@ -5,11 +5,11 @@ static internal class Json
 {
     // json at exe directory
     static public void WriteJsonAtExe<T>(T content, string fileName) => WriteAtExe(JsonSerializer.Serialize<T>(content), fileName);
-    static private void WriteAtExe(string content, string fileName) => File.WriteAllText($"{System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location)}/{fileName}.json", content);
+    static private void WriteAtExe(string content, string fileName) => File.WriteAllText($"{AppDomain.CurrentDomain.BaseDirectory}{fileName}.json", content);
 
-    static public bool ReadJsonAtExe<T>(ref T myObject, string fileName)
+    static public bool ReadJsonAtExe<T>(ref T? myObject, string fileName)
     {
-        FileInfo _fileName = new FileInfo($"{System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location)}/{fileName}.json");
+        FileInfo _fileName = new($"{AppDomain.CurrentDomain.BaseDirectory}{fileName}.json");
         if (_fileName.Exists)
         {
             myObject = JsonSerializer.Deserialize<T>(ReadAtExe(fileName));
