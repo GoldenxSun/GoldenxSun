@@ -4,10 +4,11 @@ Welcome to my GitHub profile! I am an **Electrical Engineer** with a passion for
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** C#, C++, Python
 - **Frameworks:** .NET, Arduino
 - **Microcontrollers:** Arduino, ESP32
 - **Tools:** Git, Visual Studio Code, Visual Studio Community
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenxSun&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true)
 
 ## 🌱 Currently Learning
 
@@ -20,18 +21,6 @@ Here are some of my notable projects:
 
 - **[HeicToJpg](https://github.com/GoldenxSun/HeicToJpg)**: HeicToJpg is an application that lets you convert .heic-files to jpg.
 - **[Image2Array](https://github.com/GoldenxSun/Image2Array)**: Convert an image to Bitmap and PROGMEM Array for Arduino OLED projects.
-
-<!-- ## 💬 Get in Touch
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Website/Portfolio: [your-website.com](http://your-website.com)
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- 🔗 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile) -->
-
-## 📈 GitHub Stats
-
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoldenxSun&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenxSun&layout=compact&show_icons=true&theme=midnight-purple) |
-| ------------- | ------------- |
 
 ## 🙌 Support
 
