@@ -30,7 +30,7 @@ Here are some of my notable projects:
 
 ## 📈 GitHub Stats
 
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoldenxSun&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true) | ![Top Langs](https://github-readme-stats-phi-three-76.vercel.app/api/top-langs/?username=GoldenxSun&layout=compact&show_icons=true&theme=midnight-purple) |
+| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoldenxSun&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenxSun&layout=compact&show_icons=true&theme=midnight-purple) |
 | ------------- | ------------- |
 
 ## 🙌 Support
