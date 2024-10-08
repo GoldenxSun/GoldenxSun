@@ -21,6 +21,7 @@ Here are some of my notable projects:
 
 - **[HeicToJpg](https://github.com/GoldenxSun/HeicToJpg)**: HeicToJpg is an application that lets you convert .heic-files to jpg.
 - **[Image2Array](https://github.com/GoldenxSun/Image2Array)**: Convert an image to Bitmap and PROGMEM Array for Arduino OLED projects.
+- **[Latexmk-Template](https://github.com/GoldenxSun/Latexmk-Template)**: A customizable LaTeX template for creating professional PDF documents.
 
 ## 🙌 Support
 
