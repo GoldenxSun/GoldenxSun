@@ -8,8 +8,6 @@ Welcome to my GitHub profile! I am an **Electrical Engineer** with a passion for
 - **Microcontrollers:** Arduino, ESP32
 - **Tools:** Git, Visual Studio Code, Visual Studio Community
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenxSun&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true)
-
 ## 🌱 Currently Learning
 
 - Developing practical applications for everyday use with python and c#
